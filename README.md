@@ -65,14 +65,6 @@ npm run build
     └── winter-bg.jpg
 ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/winter-break-todo/issues).
-
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
-
 ## 🙏 Acknowledgments
 
 - Background image from Unsplash
