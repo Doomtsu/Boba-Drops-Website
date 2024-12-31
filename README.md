@@ -2,8 +2,6 @@
 
 A beautiful, winter-themed to-do list application to help organize your winter break activities with style. Features a snowy background, animated snowflakes, and delightful UI interactions.
 
-![Winter Break To-Do List](preview.png)
-
 ## ✨ Features
 
 - Beautiful winter-themed design with snowy background
