@@ -40,8 +40,3 @@ A beautiful, winter-themed to-do list application to help organize your winter b
 └── public/
     └── winter-bg.jpg
 ```
-
-## 🙏 Acknowledgments
-
-- Background image from Unsplash
-- Inter font by Google Fonts
