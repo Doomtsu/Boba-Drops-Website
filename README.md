@@ -17,30 +17,6 @@ A beautiful, winter-themed to-do list application to help organize your winter b
 - HTML5
 - CSS3 (with modern animations and effects)
 - JavaScript (Vanilla)
-- Vite (Build tool)
-- Google Fonts (Inter)
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/winter-break-todo.git
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Run the development server:
-```bash
-npm run dev
-```
-
-4. Build for production:
-```bash
-npm run build
-```
 
 ## 🎨 Design Features
 
